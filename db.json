@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "f917",
+      "email": "navaneeth@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e297",
+      "name": "ss",
+      "email": "sss@gmail.com",
+      "password": "1111",
+      "phone": "1111"
+    },
+    {
+      "id": "195b",
+      "name": "ss",
+      "email": "sss@gmail.com",
+      "password": "1111",
+      "phone": "1111"
+    },
+    {
+      "id": "0db2",
+      "name": "ss",
+      "email": "sss@gmail.com",
+      "password": "1111",
+      "phone": "1111"
+    },
+    {
+      "id": "cbb6",
+      "name": "ss",
+      "email": "sss@gmail.com",
+      "password": "1111",
+      "phone": "1111"
+    },
+    {
+      "id": "2a5f",
+      "email": "aaaa@gmailo.com",
+      "password": "aaa",
+      "firstName": "aaaa",
+      "lastName": "aaaa",
+      "phone": "aaaaa"
+    },
+    {
+      "id": "e281",
+      "email": "nav@gmail.com",
+      "password": "123",
+      "firstName": "nav",
+      "lastName": "eeth",
+      "phone": "98765"
+    }
+  ]
+}
